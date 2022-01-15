@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <line x1="10" x2="110" y1="10" y2="10" stroke="black" />
+    <line x1="10" x2="110" y1="30" y2="30" stroke="black" stroke-width="10" />
+    <line x1="10" x2="110" y1="50" y2="50" stroke="black" stroke-width="10" stroke-opacity="0.5" />
+    <line x1="10" x2="110" y1="70" y2="70" stroke="black" stroke-dasharray="1" />
+    <line x1="10" x2="110" y1="80" y2="80" stroke="black" stroke-dasharray="5" />
+    <line x1="10" x2="110" y1="90" y2="90" stroke="black" stroke-dasharray="5 5" />
+    <line x1="10" x2="110" y1="100" y2="100" stroke="black" stroke-dasharray="4 2 2" />
+    <line x1="10" x2="110" y1="120" y2="120" stroke="black" stroke-linecap="round" />
+    <line x1="10" x2="110" y1="125" y2="125" stroke="black" stroke-linecap="square" />
+</svg>
